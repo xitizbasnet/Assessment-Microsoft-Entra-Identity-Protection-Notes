@@ -1,4 +1,4 @@
-# **Assessment: Microsoft Entra & Identity Protection Notes**
+# **Assesment: Microsoft Entra & Identity Protection Practise Test Note**
 
 This repository contains notes and exam preparation for the Microsoft Entra and Identity Protection exam. Below are the 60 questions, along with correct answers, explanations, scores, and feedback.
 
